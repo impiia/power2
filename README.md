@@ -1,16 +1,9 @@
-# power2
+# Power2 Puzzle
 
-power2game
+Power2 Puzzle is a simple yet addictive puzzle game built using Flutter. The goal of the game is to merge tiles with the same number to reach the highest possible number, which is the power of 2. Can you reach 2048 or even beyond?
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Simple and intuitive gameplay.
+- Challenge yourself to reach higher numbers and beat your high score.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
